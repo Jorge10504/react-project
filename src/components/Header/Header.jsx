@@ -5,7 +5,6 @@ const reactDescriptions = ["Fundamental", "Crucial", "Core"];
 
 function getRandomInt(max) {
   const randomInt = Math.floor(Math.random() * max);
-  console.log(randomInt);
   return randomInt;
 }
 
